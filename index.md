@@ -1,6 +1,20 @@
 ## Happy Festivus
 
-Welcome to the Thien Family Festivus! Please air your grievances below.
+Welcome to the Thien Family Festivus! 
+
+### What is festivus?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HX55AzGku5Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### What are grievances?
+
+Grievances are problems you have with people. Simple as that. During festivus, it is traditional to air the grievances you have with other people to really get into the holiday spirit. Generally, grievances are directed at people in your life, but they can really be anything that causes you grief.
+
+Example: My hooligan brother keeps dragging all these blankets around all over the place and leaving them on the floor in his room.
+
+Example: My galoombus friends made me email Dr. Crobar about lung extensions. For legal reasons I cannot say more, but know that they didn't work out.
+
+### Pease air your grievances below.
 
 <!-- begin wwww.htmlcommentbox.com -->
  <div id="HCB_comment_box"><a href="http://www.htmlcommentbox.com">Comment Form</a> is loading comments...</div>
